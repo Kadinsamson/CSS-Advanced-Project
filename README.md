@@ -1,3 +1,4 @@
 # CSS-Advanced-Project
 # OUTPUT:
-![dribble_clone](https://github.com/Kadinsamson/CSS-Advanced-Project/assets/94525955/bc4c164f-b5ed-43de-99a3-b89fbd434eb2)
+![dribble_clone](https://github.com/Kadinsamson/CSS-Advanced-Project/assets/94525955/926d3d7a-d85f-460e-9edf-f605f5d3f2a9)
+
